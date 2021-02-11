@@ -181,7 +181,10 @@ footer{
     margin-bottom: 0;
 }
 
-
+#link-github{
+    /* text-decoration: none; */
+    color: #fff;
+}
 
 
 
